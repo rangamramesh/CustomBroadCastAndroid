@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadC</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="activityAction">com.journaldev.broadcastreceiver.SOME_ACTION</string>
+</resources>
